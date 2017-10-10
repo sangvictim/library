@@ -1,0 +1,6 @@
+Daftar Kurangan Phoenix Library V.1
+---------------------------------
+
+1. Laporan Peminjaman kurang (export excel & print)
+2. Laporan pengembalian kurang (export excel & print)
+3. bagian bantuan kurang (panduan penggunaan)
